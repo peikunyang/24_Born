@@ -99,7 +99,7 @@ The analyses include:
 
 ## Notes
 
-Large trajectory files may be excluded from the repository because of file size. The scripts and analysis files are provided to document the workflow and reproduce the main calculations when the trajectory data are available.
+Large trajectory files are excluded from the repository because of file size. The scripts and analysis files are provided to document the workflow and reproduce the main calculations when the trajectory data are available.
 
 ## Author
 
