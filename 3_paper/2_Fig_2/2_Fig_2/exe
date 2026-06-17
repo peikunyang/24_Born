@@ -1,0 +1,1 @@
+python pot.py --input_csv ../1_del_pot/pot.csv --out_csv Fig_2.csv

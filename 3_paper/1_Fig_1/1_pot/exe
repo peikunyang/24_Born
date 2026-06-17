@@ -1,0 +1,5 @@
+python pot.py \
+  --md_root ../../../2_MD \
+  --cluster_dir ../../../1_prepare/clusters \
+  --out_dir pot
+

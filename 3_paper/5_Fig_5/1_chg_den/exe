@@ -1,0 +1,5 @@
+python chg_den.py \
+  --md_root ../../../2_MD \
+  --cluster_dir ../../../1_prepare/clusters \
+  --out_csv chg_den.csv
+

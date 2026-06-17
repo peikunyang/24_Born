@@ -1,0 +1,4 @@
+python dev.py \
+  --input_csv ../2_Fig_1a/Fig_1a.csv \
+  --out_csv Fig_1b.csv
+

@@ -1,0 +1,4 @@
+python peak.py \
+  --input_csv ../2_Fig_5_1/Fig_5_1.csv \
+  --out_csv Fig_5_2.csv
+

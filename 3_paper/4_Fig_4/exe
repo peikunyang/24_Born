@@ -1,0 +1,1 @@
+python radius.py --input_csv ../2_Fig_2/1_del_pot/pot.csv --out_csv Fig_4.csv

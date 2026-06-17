@@ -1,0 +1,4 @@
+python pot.py \
+  --input_csv ../2_Fig_2/2_Fig_2/Fig_2.csv \
+  --out_csv Fig_3.csv
+

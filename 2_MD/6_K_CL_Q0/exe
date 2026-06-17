@@ -1,0 +1,8 @@
+python MD.py \
+  --pair K Cl \
+  --input_dir ../../1_prepare/clusters \
+  --out_dir MD \
+  --ff charmm36.xml charmm36/water.xml \
+  --platform CUDA \
+  --precision mixed
+

@@ -1,0 +1,2 @@
+python del.py --pot_dir ../../1_Fig_1/1_pot/pot --out_csv pot.csv
+

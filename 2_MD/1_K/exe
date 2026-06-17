@@ -1,0 +1,10 @@
+python MD.py \
+  --ion K \
+  --pdb ../../1_prepare/clusters/single_K_sel21A_1118w.pdb \
+  --out_dir MD \
+  --ff charmm36.xml charmm36/water.xml \
+  --platform CUDA \
+  --precision mixed 
+  #--test_short
+
+
