@@ -1,0 +1,4 @@
+python pot.py \
+  -i ../APBS/two_center_apbs_reaction_potentials.csv \
+  -o pot.csv
+

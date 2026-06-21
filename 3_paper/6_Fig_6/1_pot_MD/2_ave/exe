@@ -1,0 +1,5 @@
+python ave.py \
+  --in_dir ../1_pot/pot \
+  --out_dir delta \
+  --out_csv Fig_6.csv
+
