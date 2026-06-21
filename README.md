@@ -1,4 +1,4 @@
-# Dependence of Effective Born Radius on Ion Charge State and Ion Separation in Water Clusters
+# Nonlinear Solvent Response and Transferability of Effective Born Radii for Model Charged Sites in Biomolecular Solvation
 
 This repository contains input structures, molecular dynamics scripts, and analysis files for the study of ion water clusters and effective Born radii.
 
